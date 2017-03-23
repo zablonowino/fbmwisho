@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/zablonowino/fbmwisho/issues"
   },
-  "homepage": "https://github.com/zablonowino/fbmwisho#readme"
+  "homepage": "https://github.com/zablonowino/fbmwisho#readme",
+  "dependencies": {
+    "messenger-bot": "^2.4.0"
+  }
 }
+
